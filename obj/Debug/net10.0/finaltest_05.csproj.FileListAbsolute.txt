@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\finaltest_05\finaltest_05\bin\Debug\net10.0\finaltest_05.exe
+C:\Users\Administrator\Desktop\finaltest_05\finaltest_05\bin\Debug\net10.0\finaltest_05.deps.json
+C:\Users\Administrator\Desktop\finaltest_05\finaltest_05\bin\Debug\net10.0\finaltest_05.runtimeconfig.json
+C:\Users\Administrator\Desktop\finaltest_05\finaltest_05\bin\Debug\net10.0\finaltest_05.dll
+C:\Users\Administrator\Desktop\finaltest_05\finaltest_05\bin\Debug\net10.0\finaltest_05.pdb
+C:\Users\Administrator\Desktop\finaltest_05\finaltest_05\obj\Debug\net10.0\finaltest_05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\finaltest_05\finaltest_05\obj\Debug\net10.0\finaltest_05.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\finaltest_05\finaltest_05\obj\Debug\net10.0\finaltest_05.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\finaltest_05\finaltest_05\obj\Debug\net10.0\finaltest_05.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\finaltest_05\finaltest_05\obj\Debug\net10.0\finaltest_05.dll
+C:\Users\Administrator\Desktop\finaltest_05\finaltest_05\obj\Debug\net10.0\refint\finaltest_05.dll
+C:\Users\Administrator\Desktop\finaltest_05\finaltest_05\obj\Debug\net10.0\finaltest_05.pdb
+C:\Users\Administrator\Desktop\finaltest_05\finaltest_05\obj\Debug\net10.0\finaltest_05.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\finaltest_05\finaltest_05\obj\Debug\net10.0\ref\finaltest_05.dll
